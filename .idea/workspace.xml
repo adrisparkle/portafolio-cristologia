@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e4a53a5-72dc-411c-92f9-692e4436aeb1" name="Default Changelist" comment="" />
+    <list default="true" id="8e4a53a5-72dc-411c-92f9-692e4436aeb1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/clases/clase1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase24.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase25.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase26.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase27.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase28.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase29.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/clase9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/mapa-mental.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clases/primer-servicio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cristo-de-la-fe.html" beforeDir="false" afterPath="$PROJECT_DIR$/cristo-de-la-fe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/espera-del-mesias.html" beforeDir="false" afterPath="$PROJECT_DIR$/espera-del-mesias.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fe-y-razon.html" beforeDir="false" afterPath="$PROJECT_DIR$/fe-y-razon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jesus-de-nazaret.html" beforeDir="false" afterPath="$PROJECT_DIR$/jesus-de-nazaret.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jesus-existio.html" beforeDir="false" afterPath="$PROJECT_DIR$/jesus-existio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testimonio-de-san-pablo.html" beforeDir="false" afterPath="$PROJECT_DIR$/testimonio-de-san-pablo.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -23,14 +63,111 @@
     <session id="344256992">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="9377" />
+          <entry key="txt" value="70" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="9377" />
+          <entry key="PLAIN_TEXT" value="70" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="70" />
+          <entry key="png" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="70" />
+          <entry key="Image" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/clases/mapa-mental.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="124" column="59" selection-start-line="124" selection-start-column="59" selection-end-line="124" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>parte</find>
+      <find>rebui</find>
+      <find>fe y raz</find>
+      <find>big</find>
+      <find>rebuilding</find>
+      <find>fe</find>
+      <find>fe-y-razon</find>
+      <find>jpg</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sermon.html" />
+        <option value="$PROJECT_DIR$/fe-y-razon.html" />
+        <option value="$PROJECT_DIR$/clases/clase3.html" />
+        <option value="$PROJECT_DIR$/clases/clase2.html" />
+        <option value="$PROJECT_DIR$/clases/clase4.html" />
+        <option value="$PROJECT_DIR$/clases/clase5.html" />
+        <option value="$PROJECT_DIR$/clases/clase7.html" />
+        <option value="$PROJECT_DIR$/clases/clase6.html" />
+        <option value="$PROJECT_DIR$/clases/clase8.html" />
+        <option value="$PROJECT_DIR$/clases/clase9.html" />
+        <option value="$PROJECT_DIR$/clases/clase10.html" />
+        <option value="$PROJECT_DIR$/espera-del-mesias.html" />
+        <option value="$PROJECT_DIR$/clases/clase11.html" />
+        <option value="$PROJECT_DIR$/clases/clase12.html" />
+        <option value="$PROJECT_DIR$/clases/clase13.html" />
+        <option value="$PROJECT_DIR$/clases/clase14.html" />
+        <option value="$PROJECT_DIR$/clases/clase15.html" />
+        <option value="$PROJECT_DIR$/clases/clase16.html" />
+        <option value="$PROJECT_DIR$/clases/clase17.html" />
+        <option value="$PROJECT_DIR$/clases/clase18.html" />
+        <option value="$PROJECT_DIR$/clases/clase19.html" />
+        <option value="$PROJECT_DIR$/jesus-existio.html" />
+        <option value="$PROJECT_DIR$/clases/clase20.html" />
+        <option value="$PROJECT_DIR$/jesus-de-nazaret.html" />
+        <option value="$PROJECT_DIR$/cristo-de-la-fe.html" />
+        <option value="$PROJECT_DIR$/testimonio-de-san-pablo.html" />
+        <option value="$PROJECT_DIR$/clases/clase21.html" />
+        <option value="$PROJECT_DIR$/clases/clase22.html" />
+        <option value="$PROJECT_DIR$/clases/clase23.html" />
+        <option value="$PROJECT_DIR$/clases/clase24.html" />
+        <option value="$PROJECT_DIR$/clases/clase25.html" />
+        <option value="$PROJECT_DIR$/clases/clase26.html" />
+        <option value="$PROJECT_DIR$/clases/clase27.html" />
+        <option value="$PROJECT_DIR$/clases/clase28.html" />
+        <option value="$PROJECT_DIR$/clases/clase29.html" />
+        <option value="$PROJECT_DIR$/primer-servicio.html" />
+        <option value="$PROJECT_DIR$/clases/primer-servicio.html" />
+        <option value="$PROJECT_DIR$/clases/clase1.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/clases/mapa-mental.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -44,7 +181,9 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -71,6 +210,15 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\portafolio-cristologia\clases" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\portafolio-cristologia\clases" />
+      <recent name="C:\xampp\htdocs\portafolio-cristologia" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -94,15 +242,53 @@
       <option name="presentableId" value="Default" />
       <updated>1542587386171</updated>
       <workItem from="1542587387940" duration="898000" />
-      <workItem from="1542588886989" duration="250000" />
+      <workItem from="1542588886989" duration="3865000" />
+      <workItem from="1542645263441" duration="26706000" />
     </task>
+    <task id="LOCAL-00001" summary="Primer commit">
+      <created>1542589317932</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542589317932</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Subida de proyecto">
+      <created>1542589443666</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542589443666</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Pagina de inicio">
+      <created>1542600864220</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542600864220</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Primer tema Fe y razon">
+      <created>1542663486409</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1542663486409</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Primer tema Fe y razon">
+      <created>1542663964084</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1542663964084</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1148000" />
+    <option name="totallyTimeSpent" value="31469000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -117,7 +303,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" visible="true" weight="0.18277681" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -128,5 +314,308 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primer commit" />
+    <MESSAGE value="Subida de proyecto" />
+    <MESSAGE value="Pagina de inicio" />
+    <MESSAGE value="Primer tema Fe y razon" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primer tema Fe y razon" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sermon-single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="373" column="7" lean-forward="true" selection-end-line="373" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="673">
+          <caret line="139" column="20" selection-start-line="139" selection-start-column="20" selection-end-line="139" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="137" column="15" lean-forward="true" selection-start-line="137" selection-start-column="15" selection-end-line="137" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="136" column="20" lean-forward="true" selection-start-line="136" selection-start-column="20" selection-end-line="136" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="131" column="104" selection-start-line="131" selection-start-column="104" selection-end-line="131" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="135" selection-start-line="135" selection-end-line="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase9.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="147" column="18" lean-forward="true" selection-start-line="133" selection-start-column="12" selection-end-line="147" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fe-y-razon.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="197" column="45" lean-forward="true" selection-start-line="197" selection-start-column="45" selection-end-line="197" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/espera-del-mesias.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="133" column="70" lean-forward="true" selection-start-line="133" selection-start-column="70" selection-end-line="133" selection-end-column="70" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase11.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="196" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase12.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="132" column="118" lean-forward="true" selection-start-line="132" selection-start-column="118" selection-end-line="132" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase13.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="134" column="43" lean-forward="true" selection-start-line="134" selection-start-column="43" selection-end-line="134" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase14.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="126" column="57" selection-start-line="126" selection-start-column="57" selection-end-line="126" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase15.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="126" column="57" selection-start-line="126" selection-start-column="57" selection-end-line="126" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase16.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="126" column="85" lean-forward="true" selection-start-line="126" selection-start-column="85" selection-end-line="126" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase17.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="132" column="14" selection-start-line="132" selection-start-column="14" selection-end-line="132" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase18.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="133" column="14" selection-start-line="133" selection-start-column="14" selection-end-line="133" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/clase6-1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase19.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="126" column="47" selection-start-line="126" selection-start-column="47" selection-end-line="126" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jesus-existio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="134" column="18" lean-forward="true" selection-start-line="134" selection-start-column="18" selection-end-line="134" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testimonio-de-san-pablo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-667">
+          <caret line="95" column="31" lean-forward="true" selection-start-line="95" selection-start-column="31" selection-end-line="95" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cristo-de-la-fe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="94" column="120" selection-start-line="94" selection-start-column="120" selection-end-line="94" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jesus-de-nazaret.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="133" column="20" lean-forward="true" selection-start-line="133" selection-start-column="20" selection-end-line="133" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase20.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="125" column="176" selection-start-line="125" selection-start-column="176" selection-end-line="125" selection-end-column="176" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase21.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1112">
+          <caret line="167" column="14" lean-forward="true" selection-start-line="167" selection-start-column="14" selection-end-line="167" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase22.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="127" column="120" selection-start-line="127" selection-start-column="120" selection-end-line="127" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase23.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="133" column="14" selection-start-line="133" selection-start-column="14" selection-end-line="133" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase24.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="132" column="20" selection-start-line="132" selection-start-column="20" selection-end-line="132" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase25.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="124" lean-forward="true" selection-start-line="124" selection-end-line="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase26.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="128" column="11" selection-start-line="128" selection-start-column="11" selection-end-line="128" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase27.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="127" column="169" selection-start-line="127" selection-start-column="169" selection-end-line="127" selection-end-column="169" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase29.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="127" column="158" selection-start-line="127" selection-start-column="158" selection-end-line="127" selection-end-column="158" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase28.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="121" column="54" selection-start-line="121" selection-start-column="54" selection-end-line="121" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/primer-servicio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="65" column="47" selection-start-line="65" selection-start-column="47" selection-end-line="65" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="130" column="12" selection-start-line="130" selection-start-column="12" selection-end-line="130" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="133" column="46" selection-start-line="133" selection-start-column="46" selection-end-line="133" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/clase3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="130" column="142" lean-forward="true" selection-start-line="130" selection-start-column="142" selection-end-line="130" selection-end-column="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-384">
+          <caret line="70" column="56" selection-start-line="70" selection-start-column="56" selection-end-line="70" selection-end-column="56" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/mapa-mental.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="124" column="59" selection-start-line="124" selection-start-column="59" selection-end-line="124" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
